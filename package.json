@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "exercise-1": "node Exercice1/index.js",
+    "exercise-2": "node Exercice2/index.js",
+    "exercise-3": "node Exercice3/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
